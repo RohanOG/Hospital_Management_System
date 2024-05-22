@@ -9,7 +9,7 @@ Follow these steps to set up and run the project on your local machine:
 
 1. **Clone the Repository**: 
    ```shell
-   https://github.com/RohanOG/Banking_Management_System.git
+   https://github.com/RohanOG/Hospital_Management_System.git
 2. **Compile the Java Code**:
     
 3. **Run the Application**:
